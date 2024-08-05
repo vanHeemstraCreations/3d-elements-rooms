@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+3d-elements-rooms
+# 3D Elements - Rooms
 
-Based on "ABC" at https://www.abc.com/
+Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/watch?v=ex734smQB5Q
+
+Based on "Element 3D tutorial" at https://www.youtube.com/watch?v=eO_ggqaxGtI
 
 ## 100 - Introduction
 
