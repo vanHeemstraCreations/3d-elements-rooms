@@ -5,6 +5,8 @@ Based on "Element 3D Room Tutorial | After Effects" at https://www.youtube.com/w
 
 Based on "Element 3D tutorial" at https://www.youtube.com/watch?v=eO_ggqaxGtI
 
+Based on "how to edit a 3d room with element 3d - after effects" at https://www.youtube.com/watch?v=qlM24tGrtsQ
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
